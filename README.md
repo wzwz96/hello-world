@@ -5,4 +5,4 @@ Edit 'readme.md' for testing branch called readme-edits.
 
 end this test
 
-<script></script>
+<script>alert(1)</script>
